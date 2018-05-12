@@ -1,4 +1,5 @@
 _repo: Legends-of-Norseland_48908
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
     agent_name: Chase, A.
     gutenberg_agent_id: '45038'
     url: http://www.gutenberg.org/2009/agents/45038
+covers:
+- cover_type: archival
+  image_path: 48908-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -19,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48908#Legends-of-Norseland
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
